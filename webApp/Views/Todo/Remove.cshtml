@@ -1,0 +1,16 @@
+@model todoApp.Models.Todo
+
+<h1>Remove todo</h1>
+
+<p>Do you really want to remove "@Model.Title"</p>
+
+<form action="~/Todo/Remove" method="POST">
+    <input type="hidden" name="Id" value="@Model.Id">
+    <!-- <input type="checkbox" id="confirm" name="Confirm" value="true"> 
+    <label for="confirm">Confirm</label> -->
+    <div>
+        <input class="btn btn-success" type="submit" value="Ok">
+        <a class="btn btn-danger" href="~/Todo">Cancel</a>
+    </div>
+    
+</form>

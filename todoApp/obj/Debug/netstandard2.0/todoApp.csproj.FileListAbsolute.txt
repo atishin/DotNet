@@ -1,0 +1,16 @@
+c:\Repos\KBTU\todoApp\bin\Debug\netstandard2.0\todoApp.deps.json
+c:\Repos\KBTU\todoApp\bin\Debug\netstandard2.0\todoApp.dll
+c:\Repos\KBTU\todoApp\bin\Debug\netstandard2.0\todoApp.pdb
+c:\Repos\KBTU\todoApp\obj\Debug\netstandard2.0\todoApp.csproj.CoreCompileInputs.cache
+c:\Repos\KBTU\todoApp\obj\Debug\netstandard2.0\todoApp.AssemblyInfoInputs.cache
+c:\Repos\KBTU\todoApp\obj\Debug\netstandard2.0\todoApp.AssemblyInfo.cs
+c:\Repos\KBTU\todoApp\obj\Debug\netstandard2.0\todoApp.dll
+c:\Repos\KBTU\todoApp\obj\Debug\netstandard2.0\todoApp.pdb
+D:\university\Anton\MVC\todoApp\bin\Debug\netstandard2.0\todoApp.deps.json
+D:\university\Anton\MVC\todoApp\bin\Debug\netstandard2.0\todoApp.dll
+D:\university\Anton\MVC\todoApp\bin\Debug\netstandard2.0\todoApp.pdb
+D:\university\Anton\MVC\todoApp\obj\Debug\netstandard2.0\todoApp.csproj.CoreCompileInputs.cache
+D:\university\Anton\MVC\todoApp\obj\Debug\netstandard2.0\todoApp.AssemblyInfoInputs.cache
+D:\university\Anton\MVC\todoApp\obj\Debug\netstandard2.0\todoApp.AssemblyInfo.cs
+D:\university\Anton\MVC\todoApp\obj\Debug\netstandard2.0\todoApp.dll
+D:\university\Anton\MVC\todoApp\obj\Debug\netstandard2.0\todoApp.pdb

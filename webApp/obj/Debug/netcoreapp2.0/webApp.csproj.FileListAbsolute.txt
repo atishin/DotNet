@@ -1,0 +1,12 @@
+D:\university\Anton\MVC\webApp\obj\Debug\netcoreapp2.0\webApp.csproj.CoreCompileInputs.cache
+D:\university\Anton\MVC\webApp\obj\Debug\netcoreapp2.0\webApp.AssemblyInfoInputs.cache
+D:\university\Anton\MVC\webApp\obj\Debug\netcoreapp2.0\webApp.AssemblyInfo.cs
+D:\university\Anton\MVC\webApp\bin\Debug\netcoreapp2.0\webApp.deps.json
+D:\university\Anton\MVC\webApp\bin\Debug\netcoreapp2.0\webApp.runtimeconfig.json
+D:\university\Anton\MVC\webApp\bin\Debug\netcoreapp2.0\webApp.runtimeconfig.dev.json
+D:\university\Anton\MVC\webApp\bin\Debug\netcoreapp2.0\webApp.dll
+D:\university\Anton\MVC\webApp\bin\Debug\netcoreapp2.0\webApp.pdb
+D:\university\Anton\MVC\webApp\bin\Debug\netcoreapp2.0\todoApp.dll
+D:\university\Anton\MVC\webApp\bin\Debug\netcoreapp2.0\todoApp.pdb
+D:\university\Anton\MVC\webApp\obj\Debug\netcoreapp2.0\webApp.dll
+D:\university\Anton\MVC\webApp\obj\Debug\netcoreapp2.0\webApp.pdb

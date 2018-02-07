@@ -1,0 +1,21 @@
+@using todoApp.Models
+@model IEnumerable<Todo>
+
+<table>
+    <tr>
+        <th>Is done</th>
+        <th>Title</th>
+        <th>Actions</th>
+    </tr>
+    @foreach (var todo in Model) {
+        <tr>
+            <td>
+                <input type="checkbox" disabled @(todo.Done ? "checked" : "")>
+            </td>
+            <td>@todo.Title</td>
+            <td>
+                <a class="btn btn-danger" href="~/Todo/Remove?id=@todo.Id">Remove</a>
+            </td>
+        </tr>
+    }
+</table>
